@@ -39,7 +39,7 @@ module.exports = (robot) ->
 ```
 
 Hubot will only hear messages in converastions where it is a member. A human must invite Hubot into conversations
-(shortcut: `/invite @username`).
+(shortcut: `/invite @username`). Note that slack has a reminders feature that can schedule a message into a room (try `/remind help`) that can be used schedule future or repeated hubot task. 
 
 --------
 
